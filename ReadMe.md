@@ -19,11 +19,12 @@ To install Goose++, follow these steps:
 1. Download or clone the Goose++ repository to your local machine.
 2. Run the setup wizard (`setup_wizard.py`) to install Goose++ on your system.
 3. Follow the instructions in the setup wizard to select the installation directory.
-4. Once installed, you can use Goose++ by running the `goose++.bat` file from any command prompt or terminal window.
 
 ## Usage
 
 To use Goose++, follow these guidelines:
 
 - Write your Goose++ scripts using a text editor of your choice, and save them with a `.gs` extension.
-- Run your Goose++ scripts by executing the `goose++.bat` file followed by the path to your script. For example:
+- Run your Goose++ scripts by typing 'goose' followed by the path to your script. For example:
+
+#goose main.gs
