@@ -27,4 +27,4 @@ To use Goose++, follow these guidelines:
 - Write your Goose++ scripts using a text editor of your choice, and save them with a `.gs` extension.
 - Run your Goose++ scripts by typing 'goose' followed by the path to your script. For example:
 
-#goose main.gs
+# goose main.gs
