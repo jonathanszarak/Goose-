@@ -28,3 +28,12 @@ To use Goose++, follow these guidelines:
 - Run your Goose++ scripts by typing 'goose' followed by the path to your script. For example:
 
 # goose main.gs
+
+## Docs
+- print("text" + variable);
+- int x = 5;
+- string name = "goose";
+- input("promt text here" + variable_to_store);
+- calc(a + b);
+- calc(4 - 2);
+- //comment
