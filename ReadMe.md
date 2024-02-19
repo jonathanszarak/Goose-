@@ -38,12 +38,12 @@ To use Goose++, follow these guidelines:
 - calc(4 - 2);
 - //comment
 
-  ## Example Script
+## Example Script
 
-  #### main.gpp
+#### main.gpp
 
-  input("enter your birth year: " + birthYear);
-  input("enter the current year: " + currentYear);
-
-  print("you are ");
-  calc(currentYear - birthYear);
+- input("enter your birth year: " + birthYear);
+- input("enter the current year: " + currentYear);
+  
+- print("you are ");
+- calc(currentYear - birthYear);
